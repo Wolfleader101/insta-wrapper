@@ -1,3 +1,8 @@
 const insta = require('../lib/index');
 
-const {access_token, user_id} = require('./config.json')
+const {user_id, access_token} = require('./config.json')
+
+insta.GetClientInfo(user_id,access_token)
+.then(res => {
+    console.log(res)
+})
