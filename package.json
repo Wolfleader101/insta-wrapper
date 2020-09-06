@@ -1,6 +1,6 @@
 {
   "name": "@wolfleader101/insta-wrapper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "an instagram API wrapper for Node.JS",
   "main": "/lib/index.js",
   "scripts": {
