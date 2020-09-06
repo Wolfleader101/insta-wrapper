@@ -3,8 +3,8 @@
 
 
 
- # Examples
-  examples are in ./examples/example.js
+# Examples
+examples are in ./examples/example.js
 
 Getting basic user info
 ```js
